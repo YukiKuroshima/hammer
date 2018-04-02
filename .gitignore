@@ -92,4 +92,4 @@ wp-content/*
 !/doc/
 !docker-compose.yaml
 !wp-content/plugins/
-!wp-content/themes/twenty-seventeen-child/
+!wp-content/themes/
